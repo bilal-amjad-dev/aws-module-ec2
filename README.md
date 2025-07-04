@@ -8,7 +8,7 @@ aws-module-ec2/
 ├── main.tf
 ├── variables.tf
 ├── terraform.tfvars
-└── modules/
+└── module/
     └── ec2/
         ├── ec2.tf          
         └── variables.tf
